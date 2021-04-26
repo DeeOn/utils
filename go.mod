@@ -1,3 +1,3 @@
-module github.com/DeeOn/utils/v2
+module github.com/DeeOn/utils/v3
 
 go 1.15
